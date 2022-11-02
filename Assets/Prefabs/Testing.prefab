@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4686145839148467094
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4686145839148467092}
+  - component: {fileID: 4686145839148467095}
+  m_Layer: 0
+  m_Name: Testing
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4686145839148467092
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4686145839148467094}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 62.851505, y: 37.37106, z: 65.66226}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4686145839148467095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4686145839148467094}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 917acf2d06f9eac409f9eba77eaf1dcb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Object1: {fileID: 0}
+  Object2: {fileID: 0}
+  pcInstance: {fileID: 4229258124886914956, guid: 6f930a986947d2d44a1d140ea6590988, type: 3}
+  iftsInstance: {fileID: 8344844138527595141, guid: 752e41b3d59317c4485e7831342efaff, type: 3}
+  ifthInstance: {fileID: 5612000347120373725, guid: b09478991c8b650409e49dadfdc38acb, type: 3}
+  iftkInstance: {fileID: 1181050164647640509, guid: 37ded7d1572fb724d91e0ca40df62b11, type: 3}
+  twhInstance: {fileID: 8522123290169709885, guid: bde199e2bdb10494f88dfdf81294c653, type: 3}
+  twsInstance: {fileID: 6715869514154975833, guid: ebb54f91fca43cb4d969f6860cafcd2f, type: 3}
+  wallInstance: {fileID: 8214891877496034942, guid: cf532743f5bc35a43b0b9e59fcaeab22, type: 3}
+  tcredits: {fileID: 3351496640100742041, guid: ca9134d7afa604040a9a999476583f41, type: 3}
+  tecredits: {fileID: 3738715660257236045, guid: 246e11cea3a11934697d7a69b474dae8, type: 3}
+  PWUnits: []
+  TWHUnits: []
+  TWSUnits: []
+  IFTSUnits: []
+  IFTHUnits: []
+  IFTKUnits: []
